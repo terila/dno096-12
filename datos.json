@@ -5,7 +5,7 @@
         "signo": "industrial",
         "descripcion": "Silla de 50cm x 50cm la cual tenía que tener la que se debía guiar por el principio de la tensoestructura siendo esta su principal carácteristica, y pudiendo soportar 50kg.",
         "foto": "https://github.com/terila/dno096-12/blob/main/img/tens.jpg?raw=true",
-        "fotos": "https://github.com/terila/Dno096-9/blob/main/TENS-02.jpg?raw=true",
+        "fotos": ["sill1.png", "sill2.png"],
         "github": "https://github.com/terila"
     },
     {
@@ -14,7 +14,7 @@
         "signo": "industrial",
         "descripcion": "Lámpara de escritorio de estilo cyber punk hecha con 3 materiales, uno laminar, uno que se pudiera moldear o aplique en un molde, y uno que venga en formato lineal.",
         "foto": "https://github.com/terila/dno096-12/blob/main/img/lamp.jpg?raw=true",
-        "fotos": "https://github.com/terila/Dno096-9/blob/main/plan-02.png?raw=true",
+        "fotos": ["lamp1.png", "lamp2.png"],
         "github": "https://github.com/terila"
     },
     {
